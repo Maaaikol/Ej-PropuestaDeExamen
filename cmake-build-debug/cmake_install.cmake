@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/micha/Desktop/propuesta de examen(programación)/Ej-PropuestaDeExamen
+# Install script for directory: C:/Users/micha/Desktop/Nueva carpeta (3)/Ej-PropuestaDeExamen
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/micha/Desktop/propuesta de examen(programación)/Ej-PropuestaDeExamen/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/micha/Desktop/Nueva carpeta (3)/Ej-PropuestaDeExamen/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
